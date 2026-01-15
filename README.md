@@ -69,11 +69,17 @@ This repo is for **finished personas**, not build‑a‑bear characters.
 ## Repo Structure
 
 L-GPT/
+
 ├─ README.md
+
 ├─ personas/
+
 │ ├─ lary.txt
+
 │ ├─ bob.txt
+
 │ └─ others.txt
+
 └─ LICENSE
 
 yaml
